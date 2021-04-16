@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/adouch9/exo-node-3.git",
   "author": "adouch9 <mr.ouldmoussa@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
