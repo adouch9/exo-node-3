@@ -1,0 +1,8 @@
+{
+  "name": "exo-node-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/adouch9/exo-node-3.git",
+  "author": "adouch9 <mr.ouldmoussa@gmail.com>",
+  "license": "MIT"
+}
